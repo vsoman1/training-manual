@@ -1,4 +1,4 @@
-# GitHub Training Manual - Second comment to trigger merge conflict.
+# GitHub Training Manual - Second comment to trigger merge conflict!
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
